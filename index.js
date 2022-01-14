@@ -19,7 +19,7 @@ var estudiantes = [
     fechanacimiento: {
       año: 2000,
       mes: "Agosto",
-      dia: 3
+      dia: 5
     },
     carrera: "IRYC"
   }
