@@ -17,6 +17,7 @@ var estudiantes = [
     nombre: "Francisco",
     edad: 22,
     fechanacimiento: {
+
       año: 1999,
       mes: "Septiembre",
       dia: 15
